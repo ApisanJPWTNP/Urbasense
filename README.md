@@ -1,6 +1,6 @@
 # Urbasense
 
-'App Flutter project'. 
+"Urban residents are facing increasing challenges to their personal rest, mental health, and productivity due to noise pollution and the fast-paced nature of city living."
 
 ## Getting Started
 
